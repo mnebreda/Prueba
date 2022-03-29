@@ -8,7 +8,7 @@ Changelog](https://keepachangelog.com/en/1.0.0/), y este proyecto se adhiere a
 
 ## [Unreleased]
 
-## [0.2.0] - 29/03/2022
+## [0.2.0] - 2022-03-29
 
 ### Added
 
@@ -19,3 +19,9 @@ Changelog](https://keepachangelog.com/en/1.0.0/), y este proyecto se adhiere a
 ### Added
 
 - Ficheros Book.java y Member.java
+
+## [0.1.0] - 2022-03-29
+
+### Added
+
+- Fichero Vehicle.java
